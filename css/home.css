@@ -249,7 +249,7 @@ section{
 i{
   font-size: 70px !important;
   color: #93c9f1;
-  font-family: "Font Awesome 5 Brands"; content: "\f099";
+  font-family: "Font Awesome 5 Brands" !important; content: "\f099";
 }
 
 h4{
