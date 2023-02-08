@@ -57,18 +57,18 @@ h1 span{
 }
 /* welcome message */
 .welcome_statement{
-  font-size: 45px;
+  font-size: 25px;
   color: #93c9f1 !important;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  white-space: nowrap; /* Keeps the content on a single line */
+  white-space: wrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .10em; /* Adjust as needed */
   animation: 
-    typing 3.5s steps(30, end),
+    typing 3.5s steps(40, end),
     blink-caret .5s step-end infinite;
 }
 .welcome_statement .Itag{
-font-size: 55px !important;
+font-size: 35px !important;
 }
 
 /* The typing effect */
