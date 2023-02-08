@@ -4,7 +4,16 @@
     margin: 0px;
     text-transform: capitalize;
     box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-family: 'Alata', sans-serif;
+    font-family: 'Alkalami', serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Paprika', cursive;
+    font-family: 'Prata', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 a{
